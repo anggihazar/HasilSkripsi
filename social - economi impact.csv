@@ -1,0 +1,267 @@
+source,target
+p1,Price changes
+p1,Income changes
+p1,Asset sales
+p1,Expenditure changes
+p1,Goverment assistance
+p1,Fertilizer supply
+p1,Labor
+p2,Price changes
+p2,Income changes
+p2,Expenditure changes
+p2,Goverment assistance
+p2,Labor
+p3,Price changes
+p3,Income changes
+p3,Farmer group interactions
+p3,Goverment assistance
+p4,Price changes
+p4,Income changes
+p4,Expenditure changes
+p4,Goverment assistance
+p4,Farmer group interactions
+p4,Fertilizer supply
+p5,Price changes
+p5,Income changes
+p5,Goverment assistance
+p5,Farmer group interactions
+p6,Production changes
+p6,Price changes
+p6,Expenditure changes
+p6,Goverment assistance
+p7,Production changes
+p7,Price changes
+p7,Income changes
+p7,Goverment assistance
+p7,Fertilizer supply
+pg2,Production changes
+pg2,Price changes
+pg2,Expenditure changes
+pg2,Asset sales
+pg2,Income changes
+pg2,Goverment assistance
+pg3,Price changes
+pg3,Income changes
+pg3,Asset sales
+pg3,Expenditure changes
+pg3,Labor
+p8,Production changes
+p8,Price changes
+p8,Expenditure changes
+p8,Income changes
+p8,Goverment assistance
+p9,Price changes
+p9,Income changes
+p9,Goverment assistance
+p9,Fertilizer supply
+p9,Farmer group interactions
+p10,Price changes
+p10,Income changes
+p10,Expenditure changes
+p10,Fertilizer supply
+p10,Farmer group interactions
+pg1,Price changes
+pg1,Income changes
+pg1,Expenditure changes
+pg1,Fertilizer supply
+pg1,Farmer group interactions
+pg1,Labor
+pg4,Production changes
+pg4,Price changes
+pg4,Income changes
+pg4,Expenditure changes
+pg4,Goverment assistance
+pg4,Labor
+pg5,Production changes
+pg5,Price changes
+pg5,Income changes
+pg5,Expenditure changes
+pg5,Labor
+pg6,Production changes
+pg6,Price changes
+pg6,Expenditure changes
+pg6,Income changes
+pg6,Fertilizer supply
+pg6,Farmer group interactions
+pg6,Labor
+p11,Price changes
+p11,Income changes
+p11,Goverment assistance
+p11,Fertilizer supply
+p12,Production changes
+p12,Price changes
+p12,Income changes
+p12,Expenditure changes
+p12,Goverment assistance
+p12,Fertilizer supply
+p12,Labor
+p13,Production changes
+p13,Price changes
+p13,Income changes
+p13,Expenditure changes
+p13,Goverment assistance
+p13,Fertilizer supply
+p13,Labor
+p14,Price changes
+p14,Income changes
+p14,Expenditure changes
+p14,Fertilizer supply
+duma kopi,Price changes
+duma kopi,Income changes
+duma kopi,Expenditure changes
+duma kopi,Labor
+pg8,Price changes
+pg8,Income changes
+pg8,Expenditure changes
+pg8,Goverment assistance
+pg9,Price changes
+pg9,Income changes
+pg9,Goverment assistance
+pg9,Farmer group interactions
+pg10,Price changes
+pg10,Income changes
+pg10,Expenditure changes
+pg10,Asset sales
+pg10,Goverment assistance
+pg10,Fertilizer supply
+Ko. citra mulia ertiga,Price changes
+Ko. citra mulia ertiga,Income changes
+Ko. citra mulia ertiga,Expenditure changes
+p15,Production changes
+p15,Price changes
+p15,Income changes
+p15,Expenditure changes
+p16,Production changes
+p16,Price changes
+p16,Income changes
+p16,Expenditure changes
+p16,Goverment assistance
+p17,Price changes
+p17,Income changes
+p17,Expenditure changes
+p17,Asset sales
+pg11,Price changes
+pg11,Income changes
+pg11,Expenditure changes
+pg11,Goverment assistance
+p18,Price changes
+p18,Income changes
+p18,Asset sales
+p18,Expenditure changes
+p18,Goverment assistance
+p18,Farmer group interactions
+p18,Labor
+p19,Production changes
+p19,Price changes
+p19,Income changes
+p19,Expenditure changes
+p19,Goverment assistance
+p19,Fertilizer supply
+p19,Farmer group interactions
+p19,Labor
+pg12,Production changes
+pg12,Price changes
+pg12,Income changes
+pg12,Expenditure changes
+pg12,Goverment assistance
+pg12,Fertilizer supply
+pg12,Farmer group interactions
+pg12,Labor
+pg13,Price changes
+pg13,Income changes
+Ko. Sara ate,Price changes
+Ko. Sara ate,Income changes
+Ko. Sara ate,Expenditure changes
+Ko. Sara ate,Labor
+KSU rahmat kinara,Production changes
+KSU rahmat kinara,Price changes
+KSU rahmat kinara,Expenditure changes
+KSU rahmat kinara,Goverment assistance
+KSU rahmat kinara,Labor
+KBQ baburayyan,Production changes
+KBQ baburayyan,Price changes
+KBQ baburayyan,Income changes
+KBQ baburayyan,Expenditure changes
+KBQ baburayyan,Labor
+Ko. Arinagata,Production changes
+Ko. Arinagata,Price changes
+Ko. Arinagata,Income changes
+Ko. Arinagata,Expenditure changes
+p24,Price changes
+p24,Income changes
+p24,Expenditure changes
+p22,Price changes
+p22,Income changes
+p22,Expenditure changes
+p22,Goverment assistance
+p21,Price changes
+p21,Income changes
+p21,Farmer group interactions
+p21,Expenditure changes
+p21,Goverment assistance
+p23 ,Price changes
+p23 ,Income changes
+p23 ,Labor
+p23 ,Asset sales
+p20,Price changes
+p20,Production changes
+p20,Income changes
+p20,Labor
+p20,Goverment assistance
+p25,Income changes
+p25,Price changes
+p25,Production changes
+p25,Goverment assistance
+p25,Asset sales
+p26,Income changes
+p26,Price changes
+p26,Expenditure changes
+p26,Asset sales
+p26,Goverment assistance
+p26,Labor
+p27,Price changes
+p27,Production changes
+p27,Income changes
+p27,Goverment assistance
+p28,Price changes
+p28,Income changes
+p28,Production changes
+p28,Expenditure changes
+p28,Labor
+p29,Price changes
+p29,Income changes
+p29,Expenditure changes
+p29,Labor
+p29,Goverment assistance
+p30,Price changes
+p30,Production changes
+p30,Income changes
+p30,Goverment assistance
+p30,Asset sales
+p31,Price changes
+p31,Production changes
+p31,Income changes
+p31,Expenditure changes
+p31,Labor
+p31,Goverment assistance
+p32,Price changes
+p32,Income changes
+p32,Expenditure changes
+p32,Goverment assistance
+p32,Farmer group interactions
+pg14,Income changes
+pg14,Price changes
+pg14,Expenditure changes
+pg14,Asset sales
+pg14,Labor
+pg14,Goverment assistance
+pg15,Price changes
+pg15,Income changes
+pg15,Production changes
+pg15,Expenditure changes
+pg15,Goverment assistance
+pg15,Farmer group interactions
+KKGO,Production changes
+KKGO,Price changes
+KKGO,Income changes
+KKGO,Expenditure changes
